@@ -1,1 +1,5 @@
 creando mi primer repositorio en git
+
+ya se creo el primer commit
+
+ahora se crea otro con los siguientes cambios
