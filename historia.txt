@@ -1,5 +1,5 @@
 creando mi primer repositorio en git
 
-ya se creo el primer commit
+segundo paso
 
-ahora se crea otro con los siguientes cambios
+creando mi primer archivo html con estilos y guardandolos en un repositorio git
