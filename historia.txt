@@ -1,5 +1,1 @@
-creando mi primer repositorio en git
-
-segundo paso
-
-creando mi primer archivo html con estilos y guardandolos en un repositorio git
+Esta es la rama principal

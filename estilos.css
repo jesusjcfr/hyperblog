@@ -11,12 +11,18 @@ body
 {
     width: 70%;
     padding: 1em;
-    text-align: left;
+    text-align: center;
     border: 1px solid rebeccapurple;
     margin: 0 auto;
 }
-#container h1
+#cabecera p
+{
+    color: rgb(18, 236, 62);
+}
+ h2
 {
     font-size: 20px;
+    color: greenyellow;
+    font-family: 'Times New Roman', Times, serif;
     
 }
